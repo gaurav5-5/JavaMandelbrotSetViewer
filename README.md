@@ -23,7 +23,7 @@ JavaMandelbrotSetViewer/
  │   └── *.png
  │
  ├── README.md
- ├── LICENSE.txt
+ ├── LICENSE
  └── .gitignore
 ```
 ## Usage
